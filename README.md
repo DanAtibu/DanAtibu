@@ -13,6 +13,8 @@ SKILLS :
     * Django
     * FastAPI
     * Flask
+    * Express js
   - Javascript :
     * React JS
   - HTML CSS & VANILLA JS
+  - MySQL
