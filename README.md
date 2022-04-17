@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Dan Atibu and am a fullstack web developer
 - 👀 I’m interested in Coding ( Web Development )
 - 📫 How to reach me {
-  GMAIL : atibudan@gmail.com ,
+  GMAIL : atibudan2@gmail.com ,
   WHATSAPP : +243 974 907 600
 }
 
