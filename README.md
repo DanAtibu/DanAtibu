@@ -7,7 +7,7 @@ Fullstack Web Developer
 An ambitious problem solver with a passion for software engineering, experienced in creating both logical and innovative solutions to web development. I put my skills to develop web applications for companies.
 
 * 🌍  I'm based in Burundi, Bujumbura
-* 🖥️  Co-Founder of [donexa](http://donexa.org)
+* 💼  Co-Founder of [donexa](http://donexa.org)
 * 🖥️  See my [portfolio](https://danatibu.github.io)
 * ✉️  You can contact me at [atibudan2@gmail.com](mailto:atibudan2@gmail.com)
 * 🚀  I'm currently working on [a demo store app with react](https://app.madoshome.com)
