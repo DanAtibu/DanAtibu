@@ -1,10 +1,24 @@
 Hi 👋 My name is Dan Atibu
 ==========================
 
-Fullstack Web Developer
------------------------
+Software & DevOps Engineer
+--------------------------
 
-An ambitious problem solver with a passion for software engineering, experienced in creating both logical and innovative solutions to web development. I put my skills to develop web applications for companies.
+
+
+Passionate about building robust systems for companies and startups, as well as developing apps to automate business workflows. 🚀
+
+👨‍💻 Experienced in full stack development, I love working on both front-end and back-end technologies to create seamless user experiences and scalable solutions.
+
+⚙️ As a DevOps engineer, I specialize in streamlining development processes and implementing continuous integration/continuous deployment (CI/CD) pipelines.
+
+🔧 With a strong focus on problem-solving and innovation, my goal is to leverage technology to drive efficiency, productivity, and growth.
+
+🌐 Let's connect and collaborate on exciting projects! Reach out to discuss how I can help bring your ideas to life.
+
+#SoftwareEngineer #FullStackDeveloper #DevOpsEngineer #Automation #Innovation"
+
+
 
 * 🌍  I'm based in Burundi, Bujumbura
 * 💼  Co-Founder of [donexa](http://donexa.org)
