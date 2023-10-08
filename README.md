@@ -6,7 +6,7 @@ Software & DevOps Engineer
 
 
 
-Passionate about building robust systems for companies and startups, as well as developing apps to automate business workflows. 🚀
+Passionate about building robust systems for companies and startups, as well developing apps to automate business workflows. 🚀
 
 👨‍💻 Experienced in full stack development, I love working on both front-end and back-end technologies to create seamless user experiences and scalable solutions.
 
