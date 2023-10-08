@@ -24,7 +24,7 @@ Passionate about building robust systems for companies and startups, as well dev
 * 💼  Co-Founder of [donexa](http://donexa.org)
 * 🖥️  See my [portfolio](https://danatibu.github.io)
 * ✉️  You can contact me at [atibudan2@gmail.com](mailto:atibudan2@gmail.com)
-* 🚀  I'm currently working on [a personal project](https://fika-dashboard.vercel.app/login/)
+* 🚀  I'm currently working on [a personal project](https://fika-dashboard.vercel.app)
 * 🧠  I'm learning Backend Web Security
 * 🤝  I'm open to collaborating on all kind of Web Projects
 
